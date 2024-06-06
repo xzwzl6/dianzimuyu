@@ -1,1 +1,1 @@
-{"error":"[FORBIDDEN] \"busuanzi\" is not allow to unpkg files, see https://github.com/cnpm/unpkg-white-list"}
+{"error":"[FORBIDDEN] \"busuanzi\" is not allow to unpkg files, see https://211611411.github.io"}
